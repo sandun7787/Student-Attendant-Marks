@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Sandun\Pictures\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
